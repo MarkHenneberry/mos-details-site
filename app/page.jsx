@@ -3,7 +3,7 @@ import QuoteForm from "./QuoteForm";
 const phoneNumber = "(902) 993-0290";
 const phoneHref = "tel:19029930290";
 const email = "molham.tahina@gmail.com";
-const location = "26 Maple Drive, Dartmouth, NS";
+const location = "New Minas, NS";
 
 const services = [
   {
@@ -61,19 +61,19 @@ const reviews = [
     quote:
       "Mo brought our SUV back to life. The attention to detail was obvious inside and out.",
     name: "Sarah T.",
-    location: "Dartmouth",
+    location: "New Minas",
   },
   {
     quote:
       "The interior reset was exactly what my work truck needed. Clean mats, clean seats, and a fresh start.",
     name: "Jason M.",
-    location: "Halifax",
+    location: "Kentville",
   },
   {
     quote:
       "Friendly, careful, and easy to deal with. Professional detailing without any hassle.",
     name: "Emily R.",
-    location: "Bedford",
+    location: "Wolfville",
   },
 ];
 
@@ -108,12 +108,12 @@ export default function Home() {
 
       <section className="hero section" id="top">
         <div className="hero-copy">
-          <p className="eyebrow">Halifax & Dartmouth mobile detailer</p>
+          <p className="eyebrow">New Minas & Annapolis Valley mobile detailer</p>
           <h1>Bring your car back to life with professional detailing.</h1>
           <p className="hero-text">
-            Mobile detailing services available across Dartmouth and HRM.
-            Mo&apos;s Details refreshes your vehicle with clean, careful work and
-            the attention to detail your car deserves.
+            Mobile detailing services available across New Minas and the
+            Annapolis Valley. Mo&apos;s Details refreshes your vehicle with clean,
+            careful work and the attention to detail your car deserves.
           </p>
           <p className="booking-note">
             Now booking for spring — spots fill up quickly.
@@ -252,12 +252,10 @@ export default function Home() {
       <section className="section service-area">
         <div>
           <p className="eyebrow">Service area</p>
-          <h2>Detailing from Dartmouth across HRM.</h2>
+          <h2>Detailing in New Minas and the Annapolis Valley.</h2>
         </div>
         <p>
-          Based at {location}. Serving Halifax, Dartmouth, Cole Harbour,
-          Bedford, and Sackville. Nearby communities are welcome to request a
-          quote.
+          Serving New Minas and the Annapolis Valley area.
         </p>
       </section>
 
@@ -286,8 +284,7 @@ export default function Home() {
           {phoneNumber}
         </a>
         <p className="final-trust">
-          Professional detailing in Dartmouth and across HRM. Located at{" "}
-          {location}.
+          Professional detailing in New Minas and the Annapolis Valley.
         </p>
         <div className="hero-actions">
           <CallButton />

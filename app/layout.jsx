@@ -1,13 +1,13 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Mo's Details | Dartmouth & HRM",
+  title: "Mo's Details | New Minas & Annapolis Valley",
   description:
-    "Professional detailing in Dartmouth, Halifax, and nearby communities.",
+    "Professional detailing in New Minas and the Annapolis Valley.",
   openGraph: {
     title: "Mo's Details",
     description:
-      "Professional detailing in Dartmouth, Halifax, and nearby communities.",
+      "Professional detailing in New Minas and the Annapolis Valley.",
     type: "website",
   },
 };

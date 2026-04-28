@@ -1,6 +1,6 @@
 # Mo's Details
 
-A simple one-page Next.js landing page for Mo's Details in Dartmouth, Nova Scotia.
+A simple one-page Next.js landing page for Mo's Details in New Minas, Nova Scotia.
 
 ## Run locally
 
