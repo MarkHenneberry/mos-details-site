@@ -1,6 +1,6 @@
-# Mike's Mobile Detailing
+# Mo's Details
 
-A simple one-page Next.js landing page for a fake local mobile detailing business in Halifax and Dartmouth.
+A simple one-page Next.js landing page for Mo's Details in Dartmouth, Nova Scotia.
 
 ## Run locally
 

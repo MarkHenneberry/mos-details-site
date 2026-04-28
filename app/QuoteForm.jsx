@@ -54,7 +54,9 @@ export default function QuoteForm() {
         Request My Quote
       </button>
       {quoteSent ? (
-        <p className="form-success">Thanks &mdash; Mike will follow up shortly.</p>
+        <p className="form-success">
+          Thanks &mdash; Mo&apos;s Details will follow up shortly.
+        </p>
       ) : null}
     </form>
   );

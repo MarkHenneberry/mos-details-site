@@ -1,13 +1,13 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Mike's Mobile Detailing | Halifax & Dartmouth",
+  title: "Mo's Details | Dartmouth & HRM",
   description:
-    "Professional mobile car detailing in Halifax, Dartmouth, and nearby communities.",
+    "Professional detailing in Dartmouth, Halifax, and nearby communities.",
   openGraph: {
-    title: "Mike's Mobile Detailing",
+    title: "Mo's Details",
     description:
-      "Professional mobile car detailing in Halifax, Dartmouth, and nearby communities.",
+      "Professional detailing in Dartmouth, Halifax, and nearby communities.",
     type: "website",
   },
 };
